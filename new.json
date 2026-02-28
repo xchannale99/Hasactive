@@ -1,9 +1,9 @@
 [
     {
-        "device_id": "d7263d27fb11db4f",
-        "username": "nishad",
-        "password": "hridoy",
-        "expirydate": "29-02-2026",
+        "device_id": "device123",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
@@ -11,6 +11,14 @@
         "username": "user2",
         "password": "pass456",
         "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+
+    {
+        "device_id": "d7263d27fb11db4f",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "29-02-2026",
         "Allowoffline": false
     }
 ]
